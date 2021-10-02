@@ -1,0 +1,34 @@
+.layout {
+    display: flex;
+    border: 1.5px dotted var(--clr-2);
+    border-radius: 5px;
+    text-align: left;
+    margin-top: 1rem;
+    padding: 0.25rem;
+}
+
+.otBooks {
+    border-right: 1px solid var(--clr-2);
+    padding: 0.5rem;
+    flex: 1;
+}
+
+.ntBooks {
+    border-left: 1px solid var(--clr-2);
+    padding: 0.5rem;
+    flex: 1;
+}
+
+.button {
+    padding: 0.25rem;
+    margin: 0.25rem;
+    background-color: var(--clr-2-1);
+    border-radius: 5px;
+    border-color: transparent;
+    color: var(--clr-3);
+}
+
+.button:hover {
+    background-color: var(--clr-2);
+    cursor: pointer;
+}
