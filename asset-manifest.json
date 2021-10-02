@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/verseFinder/static/css/main.b4d59799.chunk.css",
+    "main.js": "/verseFinder/static/js/main.091624a0.chunk.js",
+    "main.js.map": "/verseFinder/static/js/main.091624a0.chunk.js.map",
+    "runtime-main.js": "/verseFinder/static/js/runtime-main.8e36fc86.js",
+    "runtime-main.js.map": "/verseFinder/static/js/runtime-main.8e36fc86.js.map",
+    "static/js/2.f2abe1af.chunk.js": "/verseFinder/static/js/2.f2abe1af.chunk.js",
+    "static/js/2.f2abe1af.chunk.js.map": "/verseFinder/static/js/2.f2abe1af.chunk.js.map",
+    "index.html": "/verseFinder/index.html",
+    "static/css/main.b4d59799.chunk.css.map": "/verseFinder/static/css/main.b4d59799.chunk.css.map",
+    "static/js/2.f2abe1af.chunk.js.LICENSE.txt": "/verseFinder/static/js/2.f2abe1af.chunk.js.LICENSE.txt",
+    "static/media/logo.9f5e4fab.png": "/verseFinder/static/media/logo.9f5e4fab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e36fc86.js",
+    "static/js/2.f2abe1af.chunk.js",
+    "static/css/main.b4d59799.chunk.css",
+    "static/js/main.091624a0.chunk.js"
+  ]
+}
